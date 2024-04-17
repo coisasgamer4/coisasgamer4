@@ -17,8 +17,8 @@ My Badges:
 <br>
 ![](https://img.shields.io/badge/python-ffcd3b.svg?style=for-the-badge&logo=python&logoColor=346c99)
 <br>
-![](https://img.shields.io/badge/discord.js-grey.svg?style=for-the-badge&logo=discord)
+![](https://img.shields.io/badge/discord.js-7289da.svg?style=for-the-badge&logo=discord&logoColor=white)
 <br>
-![](https://img.shields.io/badge/mongodb-grey.svg?style=for-the-badge&logo=mongodb)
+![](https://img.shields.io/badge/mongodb-00ed64.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <br>
 ![](https://img.shields.io/badge/node.js-424549.svg?style=for-the-badge&logo=node.js)
