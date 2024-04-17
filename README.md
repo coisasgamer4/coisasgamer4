@@ -5,7 +5,7 @@ I am a small JavaScript developer, i also code in Python and Lua
 
 ## I’m currently working on a Discord bot, its called Belga and you can add him here: [Add Belga](https://top.gg/bot/1049427882008657930/)
 
-My stats
+My stats:
 
 ![coisasgamer4 Github stats](https://github-readme-stats.vercel.app/api?username=coisasgamer4&show_icons=true&theme=dark)
 
