@@ -10,7 +10,6 @@ My stats
 ![coisasgamer4 Github stats](https://github-readme-stats.vercel.app/api?username=coisasgamer4&show_icons=true&theme=dark)
 
 My Badges:
-
 <br>
 ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <br>
@@ -23,3 +22,4 @@ My Badges:
 ![](https://img.shields.io/badge/mongodb-00ed64.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <br>
 ![](https://img.shields.io/badge/node.js-424549.svg?style=for-the-badge&logo=node.js)
+<br>
