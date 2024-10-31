@@ -15,8 +15,6 @@ My Badges:
 <br>
 ![](https://img.shields.io/badge/lua-000080.svg?style=for-the-badge&logo=lua&logoColor=white)
 <br>
-![](https://img.shields.io/badge/python-ffcd3b.svg?style=for-the-badge&logo=python&logoColor=346c99)
-<br>
 ![](https://img.shields.io/badge/discord.js-7289da.svg?style=for-the-badge&logo=discord&logoColor=white)
 <br>
 ![](https://img.shields.io/badge/mongodb-00ed64.svg?style=for-the-badge&logo=mongodb&logoColor=white)
