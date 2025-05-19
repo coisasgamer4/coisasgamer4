@@ -1,9 +1,6 @@
 ## Hi there, i'm coisasgamer4 but you can call me coisas!
 
-I am a small JavaScript developer, i also code in Python and Lua
-
-
-## I’m currently working on a Discord bot, its called Belga and you can add him here: [Add Belga](https://top.gg/bot/1049427882008657930/)
+I am a discord bot developer and Roblox scripter
 
 My stats:
 
