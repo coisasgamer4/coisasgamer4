@@ -1,6 +1,6 @@
-## Hi there, i'm coisasgamer4 but you can call me coisas!
+## Hi there, I'm coisas!
 
-I am a discord bot developer and Roblox scripter
+I'm a full-stack developer passionate about creating beautiful and functional web experiences. Always learning and building.
 
 My stats:
 
