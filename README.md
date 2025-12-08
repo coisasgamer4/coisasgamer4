@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats-iota-gules-36.vercel.app/api/top-langs?username=coisasgamer4&show_icons=true&locale=en&layout=compact" alt="coisasgamer4" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coisasgamer4&show_icons=true&locale=en" alt="coisasgamer4" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-iota-gules-36.vercel.app/api?username=coisasgamer4&show_icons=true&locale=en" alt="coisasgamer4" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coisasgamer4&" alt="coisasgamer4" /></p>
 
