@@ -22,7 +22,6 @@
   <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
