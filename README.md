@@ -2,9 +2,9 @@
 
 ### Full-stack developer passionate about creating beautiful and functional web experiences. Always learning and building.
 
-- 🔭 I'm currently working on: **Intergradr, an exam/tests platform focussed on discord roleplay communities**
+- 🔭 I'm currently working on **Intergradr, an exam/tests platform focussed on discord roleplay communities**
 
-- 📫 How to reach me: **My Discord username is "coisasgamer4"**
+- 📫 My Discord username is **coisasgamer4**
 
 - 👨‍💻 All of my projects are available at **[https://portfolio.coisas.win/](https://portfolio.coisas.win/)**
 
