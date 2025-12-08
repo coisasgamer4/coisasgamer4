@@ -27,6 +27,7 @@
   <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=premiere" alt="premiere" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
