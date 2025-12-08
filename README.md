@@ -34,6 +34,7 @@
   <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/>
+ <img src="https://skillicons.dev/icons?i=lua" alt="lua" width="40" height="40"/>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-iota-gules-36.vercel.app/api?username=coisasgamer4&show_icons=true&locale=en" alt="coisasgamer4" /></p>
