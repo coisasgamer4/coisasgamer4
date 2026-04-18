@@ -12,7 +12,7 @@
 
  <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; max-width: 600px;">
-<img src="https://skillicons.dev/icons?i=cs,css,docker,dotnet,figma,firebase,framer,html,js,mongodb,nextjs,nginx,nodejs,ps,pr,postgres,py,react,sqlite,tailwind,ts,vue,lua,vite" />
+<img src="https://skillicons.dev/icons?i=cs,css,docker,dotnet,figma,firebase,mysql,html,js,mongodb,nextjs,nginx,nodejs,ps,pr,postgres,py,react,sqlite,tailwind,ts,vue,lua,vite" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-iota-gules-36.vercel.app/api?username=coisasgamer4&show_icons=true&locale=en" alt="coisasgamer4" /></p>
