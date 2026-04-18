@@ -11,7 +11,7 @@
 - 📄 A little bit about me **[https://card.coisas.win/](https://card.coisas.win/)**
 
  <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
